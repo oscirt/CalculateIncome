@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nakopl</string>
+    <string name="button">Рассчитать</string>
+    <string name="stavka">Ставка в год: 3%</string>
+    <string name="rasch">Рассчитайте ваш доход</string>
+</resources>
